@@ -7576,9 +7576,9 @@
     "restore": {
       "projectUniqueName": "Test",
       "projectName": "Test",
-      "projectPath": "D:\\Users\\Wataru\\Documents\\UiPath\\Test\\.local",
+      "projectPath": "D:\\Users\\Wataru\\Documents\\UiPath\\TestUiPath\\.local",
       "packagesPath": "D:\\Users\\Wataru\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Wataru\\Documents\\UiPath\\Test\\.local"
+      "outputPath": "D:\\Users\\Wataru\\Documents\\UiPath\\TestUiPath\\.local"
     },
     "frameworks": {
       "net461": {
